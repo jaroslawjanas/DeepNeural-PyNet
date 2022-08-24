@@ -37,5 +37,5 @@ Alternatively you can select a different dataset such as the **CIFAR-100 dataset
 on the CIFAR [homepage](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 
-The remaining two datasets **blobs300** and **circles600.cs** are already included in the repository 
+The remaining two datasets **blobs300.csv** and **circles600.csv** are already included in the repository 
 since their size is relatively small.
